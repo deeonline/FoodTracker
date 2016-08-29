@@ -17,7 +17,7 @@ class ViewController: UIViewController, UITextFieldDelegate {
         // Do any additional setup after loading the view, typically from a nib.
         // Handle the text field’s user input through delegate callbacks.
         
-        nameTextField.delegate = self
+        //nameTextField.delegate = self
     }
 
     override func didReceiveMemoryWarning() {
